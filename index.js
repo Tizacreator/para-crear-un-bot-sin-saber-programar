@@ -21,7 +21,7 @@ archivos.forEach(archivo => {
 //presencia//
 client.on("ready", () => {
   console.log(`[ API ] Estoy encendido y soy  ${client.user.tag} :)`)
-  let statuses = [`t!help`, `Me llamo Tizawey`, `t!invite | invitar a Tizawey a tu server`, `ayuda me han hackeado, ok no, -.- ("err 404")""`];
+  let statuses = [`estado del bot personalisado`, `estado del bot personalisado`, `estado del bot personalisado`, `estado del bot personalisado""`];
   setInterval(() => {
     let status = statuses[Math.floor(Math.random() * statuses.length)];
     client.user.setPresence({ 
