@@ -1,0 +1,1 @@
+para que tu bot funcione tienes que ir a index.js y ahi busca donde diga token de tu bot eso lo borras y  ahi pones el token de tu bot y ahi buscas donde dise pers de tu bot y lo borras y ahi pones el estado personalizado de tu bot y donde dise config.json pones ahi su prefix donde esta el ! lo borras y ahi pones su prefix el que tu quieras gracias por usar nuestro code
